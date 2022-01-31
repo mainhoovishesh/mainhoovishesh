@@ -4,12 +4,7 @@ Versatile in nature, tend to take the shape of any box you put me in and, yet I 
 
 B.Tech graduate offering a strong foundation in
 
-LINKs :
-- LinkedIn: https://www.linkedin.com/in/vishesh-khurana-69b08315b/
-- Github: https://github.com/mainhoovishesh
-- SketchFab: https://sketchfab.com/visheshkhurana11
-- YouTube: https://www.youtube.com/channel/UCyVgMMUdA32lXn8WL021eeg
-- Portfolio: https://www.youtube.com/watch?v=WW6NSyRlr8o
+
 
 - 🔭 Strong Analytical, programming, and debugging skills
 - 🌱 Data Structures and Algorithms
@@ -21,3 +16,9 @@ LINKs :
 - ⚡ IoT (Arduino, Bolt IoT)
 - ⚡Video & Audio Editing (Blender, OpenShot, Audacity, Audition)
 
+LINKs :
+- ![LinkedIn](https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3ByaGqFI%2BuT0y%2B6QtnZNdf7Q%3D%3D): https://www.linkedin.com/in/vishesh-khurana-69b08315b/ 
+- Github: https://github.com/mainhoovishesh
+- SketchFab: https://sketchfab.com/visheshkhurana11
+- YouTube: https://www.youtube.com/channel/UCyVgMMUdA32lXn8WL021eeg
+- Portfolio: https://www.youtube.com/watch?v=WW6NSyRlr8o
