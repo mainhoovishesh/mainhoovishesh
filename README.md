@@ -5,11 +5,11 @@ Versatile in nature, tend to take the shape of any box you put me in and, yet I 
 B.Tech graduate offering a strong foundation in
 
 LINKs :
--LinkedIn: Vishesh Khurana | LinkedIn
--Github: mainhoovishesh (Vishesh khurana) (github.com)
--SketchFab: visheshkhuranaa (@visheshkhurana11) - Sketchfab
--YouTube: Vishesh Khurana - YouTube
--Portfolio: Portfolio Video - YouTube
+- LinkedIn: https://www.linkedin.com/in/vishesh-khurana-69b08315b/
+- Github: https://github.com/mainhoovishesh
+- SketchFab: https://sketchfab.com/visheshkhurana11
+- YouTube: https://www.youtube.com/channel/UCyVgMMUdA32lXn8WL021eeg
+- Portfolio: https://www.youtube.com/watch?v=WW6NSyRlr8o
 
 - 🔭 Strong Analytical, programming, and debugging skills
 - 🌱 Data Structures and Algorithms
