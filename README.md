@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**mainhoovishesh/mainhoovishesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Versatile in nature, tend to take the shape of any box you put me in and, yet I never fail to think outside the box.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.Tech graduate offering a strong foundation in
+
+LINKs :
+LinkedIn: Vishesh Khurana | LinkedIn
+Github: mainhoovishesh (Vishesh khurana) (github.com)
+SketchFab: visheshkhuranaa (@visheshkhurana11) - Sketchfab
+YouTube: Vishesh Khurana - YouTube
+Portfolio: Portfolio Video - YouTube
+
+- 🔭 Strong Analytical, programming, and debugging skills
+- 🌱 Data Structures and Algorithms
+- 👯 Augmented Reality.
+- 🤔 Game Development (Unity, Articulate Storyline)
+- 💬 C#,.Net, backend programming,
+- 📫 3D Design (Blender)
+- 😄 Creative Animation (Unity, Blender, Articulate Storyline)
+- ⚡ IoT (Arduino, Bolt IoT)
+- ⚡Video & Audio Editing (Blender, OpenShot, Audacity, Audition)
+
