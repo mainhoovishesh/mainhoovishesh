@@ -20,8 +20,12 @@ LINKs :
 - 
 ![LinkedIn](https://github.com/mainhoovishesh/mainhoovishesh/blob/main/LinkedinLogo.png) : https://www.linkedin.com/in/
 vishesh-khurana-69b08315b/ 
-
-- Github: https://github.com/mainhoovishesh
-- SketchFab: https://sketchfab.com/visheshkhurana11
-- YouTube: https://www.youtube.com/channel/UCyVgMMUdA32lXn8WL021eeg
-- Portfolio: https://www.youtube.com/watch?v=WW6NSyRlr8o
+- 
+- -[Github](): https://github.com/mainhoovishesh
+- 
+- -[SketchFab](): https://sketchfab.com/visheshkhurana11
+- 
+- -[YouTube](): https://www.youtube.com/channel/UCyVgMMUdA32lXn8WL021eeg
+- 
+- -[Portfolio](): https://www.youtube.com/watch?v=WW6NSyRlr8o
+- 
